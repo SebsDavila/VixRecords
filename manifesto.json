@@ -9,7 +9,7 @@
     "start_url": "./",
     "icons": [
         {
-            "src": "./images/icono-512.png",
+            "src": "FC_Bayern.png",
             "type": "image/png",
             "sizes": "512x512"
         }
